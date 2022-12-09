@@ -1,0 +1,6 @@
+Смеси - category: 0
+Клеи - category: 1
+Шпатлевка - category: 2
+Штукатурка - category: 3
+Саморезы по металлу - category: 4
+Саморезы по дереву - category: 5
